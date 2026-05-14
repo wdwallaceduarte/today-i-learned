@@ -1,6 +1,6 @@
 interface HeaderProps {
     showForm: boolean
-    onToggleForm: () => void
+    onToggleForm: ( ) => void
 }
 
 export default function Header(
